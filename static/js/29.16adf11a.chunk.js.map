@@ -1,0 +1,1 @@
+{"version":3,"sources":["native_citas/pages/Nearby/index.js"],"names":["Nearby"],"mappings":"0GAAA,2BAUeA,UARA,WACb,OACE,6BACE","file":"static/js/29.16adf11a.chunk.js","sourcesContent":["import React from 'react'\n\nconst Nearby = () => {\n  return (\n    <div>\n      <h3>Mapa Aqui...</h3>\n    </div>\n  )\n};\n\nexport default Nearby;\n"],"sourceRoot":""}
